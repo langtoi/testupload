@@ -1,98 +1,100 @@
-800x600
-960x540
-832x624
-960x544
-1024x576
-960x640
-1024x600
-1024x640
-960x720
-1136x640
-1138x640
-1024x768
-1024x800
-1152x720
-1152x768
-1280x720
-1120x832
-1280x768
-1152x864
-1334x750
-1280x800
-1152x900
-1024x1024
-1366x768
-1280x854
-1280x960
-1600x768
-1080x1200
-1440x900
-1280x1024
-1440x960
-1600x900
-1400x1050
-1440x1024
-1440x1080
-1600x1024
-1680x1050
-1776x1000
-1600x1200
-1600x1280
-1920x1080
-1440x1440
-2048x1080
-1920x1200
-2048x1152
-1792x1344
-1920x1280
-2280x1080
-2340x1080
-1856x1392
-2400x1080
-1800x1440
-2880x900
-2160x1200
-2048x1280
-1920x1400
-2520x1080
-2436x1125
-2538x1080
-1920x1440
-2560x1080
-2160x1440
-2048x1536
-2304x1440
-2256x1504
-2560x1440
-2576x1450
-2304x1728
-2560x1600
-2880x1440
-2960x1440
-2560x1700
-2560x1800
-2880x1620
-2560x1920
-3440x1440
-2736x1824
-2880x1800
-2880x1920
-2560x2048
-2732x2048
-3200x1800
-2800x2100
-3072x1920
-3000x2000
-3840x1600
-3200x2048
-3240x2160
-5120x1440
-3200x2400
-3840x2160
-4096x2160
-3840x2400
-4096x2304
-5120x2160
-4480x2520
-4096x3072
-4500x3000
+[
+  {"width": 800, "height": 600},
+  {"width": 960, "height": 540},
+  {"width": 832, "height": 624},
+  {"width": 960, "height": 544},
+  {"width": 1024, "height": 576},
+  {"width": 960, "height": 640},
+  {"width": 1024, "height": 600},
+  {"width": 1024, "height": 640},
+  {"width": 960, "height": 720},
+  {"width": 1136, "height": 640},
+  {"width": 1138, "height": 640},
+  {"width": 1024, "height": 768},
+  {"width": 1024, "height": 800},
+  {"width": 1152, "height": 720},
+  {"width": 1152, "height": 768},
+  {"width": 1280, "height": 720},
+  {"width": 1120, "height": 832},
+  {"width": 1280, "height": 768},
+  {"width": 1152, "height": 864},
+  {"width": 1334, "height": 750},
+  {"width": 1280, "height": 800},
+  {"width": 1152, "height": 900},
+  {"width": 1024, "height": 1024},
+  {"width": 1366, "height": 768},
+  {"width": 1280, "height": 854},
+  {"width": 1280, "height": 960},
+  {"width": 1600, "height": 768},
+  {"width": 1080, "height": 1200},
+  {"width": 1440, "height": 900},
+  {"width": 1280, "height": 1024},
+  {"width": 1440, "height": 960},
+  {"width": 1600, "height": 900},
+  {"width": 1400, "height": 1050},
+  {"width": 1440, "height": 1024},
+  {"width": 1440, "height": 1080},
+  {"width": 1600, "height": 1024},
+  {"width": 1680, "height": 1050},
+  {"width": 1776, "height": 1000},
+  {"width": 1600, "height": 1200},
+  {"width": 1600, "height": 1280},
+  {"width": 1920, "height": 1080},
+  {"width": 1440, "height": 1440},
+  {"width": 2048, "height": 1080},
+  {"width": 1920, "height": 1200},
+  {"width": 2048, "height": 1152},
+  {"width": 1792, "height": 1344},
+  {"width": 1920, "height": 1280},
+  {"width": 2280, "height": 1080},
+  {"width": 2340, "height": 1080},
+  {"width": 1856, "height": 1392},
+  {"width": 2400, "height": 1080},
+  {"width": 1800, "height": 1440},
+  {"width": 2880, "height": 900},
+  {"width": 2160, "height": 1200},
+  {"width": 2048, "height": 1280},
+  {"width": 1920, "height": 1400},
+  {"width": 2520, "height": 1080},
+  {"width": 2436, "height": 1125},
+  {"width": 2538, "height": 1080},
+  {"width": 1920, "height": 1440},
+  {"width": 2560, "height": 1080},
+  {"width": 2160, "height": 1440},
+  {"width": 2048, "height": 1536},
+  {"width": 2304, "height": 1440},
+  {"width": 2256, "height": 1504},
+  {"width": 2560, "height": 1440},
+  {"width": 2576, "height": 1450},
+  {"width": 2304, "height": 1728},
+  {"width": 2560, "height": 1600},
+  {"width": 2880, "height": 1440},
+  {"width": 2960, "height": 1440},
+  {"width": 2560, "height": 1700},
+  {"width": 2560, "height": 1800},
+  {"width": 2880, "height": 1620},
+  {"width": 2560, "height": 1920},
+  {"width": 3440, "height": 1440},
+  {"width": 2736, "height": 1824},
+  {"width": 2880, "height": 1800},
+  {"width": 2880, "height": 1920},
+  {"width": 2560, "height": 2048},
+  {"width": 2732, "height": 2048},
+  {"width": 3200, "height": 1800},
+  {"width": 2800, "height": 2100},
+  {"width": 3072, "height": 1920},
+  {"width": 3000, "height": 2000},
+  {"width": 3840, "height": 1600},
+  {"width": 3200, "height": 2048},
+  {"width": 3240, "height": 2160},
+  {"width": 5120, "height": 1440},
+  {"width": 3200, "height": 2400},
+  {"width": 3840, "height": 2160},
+  {"width": 4096, "height": 2160},
+  {"width": 3840, "height": 2400},
+  {"width": 4096, "height": 2304},
+  {"width": 5120, "height": 2160},
+  {"width": 4480, "height": 2520},
+  {"width": 4096, "height": 3072},
+  {"width": 4500, "height": 3000}
+]
