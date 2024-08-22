@@ -1072,4 +1072,4 @@
 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36|Google Inc. (AMD)|ANGLE (AMD, AMD Radeon R7 200 Series (0x00006819) Direct3D11 vs_5_0 ps_5_0, D3D11)|1536|824",
 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36|Google Inc. (AMD)|ANGLE (AMD, AMD Radeon (TM) R9 M375 Direct3D11 vs_5_0 ps_5_0, D3D11)|1536|824",
 "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36|Google Inc. (NVIDIA)|ANGLE (NVIDIA, NVIDIA GeForce RTX 4060 Laptop GPU (0x000028E0) Direct3D11 vs_5_0 ps_5_0, D3D11)|1600|860",
-"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36|Google Inc. (NVIDIA)|ANGLE (NVIDIA, NVIDIA GeForce GT 740M Direct3D11 vs_5_0 ps_5_0, D3D11)|1098|589",
+"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36|Google Inc. (NVIDIA)|ANGLE (NVIDIA, NVIDIA GeForce GT 740M Direct3D11 vs_5_0 ps_5_0, D3D11)|1098|589"
